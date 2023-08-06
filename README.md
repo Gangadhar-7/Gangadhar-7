@@ -3,9 +3,10 @@
 <img align="right" alt="Coding" height="300" width="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--udbxvPC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pi9le9v004gzqdqo65p8.gif">
 <!-- https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif -->
 ### Let's Connect..!
+<br>
 
 
-  <a href="[https://in.linkedin.com/in/gangadhar-matta-81b49a214](https://www.linkedin.com/in/gangadhar-matta-81b49a214/)">
+  <a href="https://www.linkedin.com/in/gangadhar-matta-81b49a214/">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
   <br>
