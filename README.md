@@ -27,8 +27,8 @@
 🔭 I’m currently working on "DevOps_Tools" <br>
 🌱 I’m currently learning DSA along with AWS_DevOps <br>
 👯 Upcoming SDE <br>
-💬 Ask me about anything😁<br>
-⚡ Fun fact: I might be a simulation💻.<br>
+💬 Trying to get the best version of Myself.<br>
+⚡ I love Web Development<br>
 <!-- - 😄 Pronouns: -->
 <br>
 
@@ -67,7 +67,7 @@
  
 
 
-<!-- <img width="90%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=belvin011&show_icons=true&theme=radical"> -->
+<img width="90%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gangadhar-7&show_icons=true&theme=radical">
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gangadhar-7&layout=compact&theme=radical)
