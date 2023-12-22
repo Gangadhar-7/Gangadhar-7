@@ -58,13 +58,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-
-
-
-
-
- 
+<code><img height="30" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A712%2F1*etej6CTBPY8VLaGLGiIhQw.png&tbnid=0jKV0l-wKwoyWM&vet=12ahUKEwig3_fO16ODAxWeR2wGHbN1B7QQMygBegQIARA0..i&imgrefurl=https%3A%2F%2Fjwenz723.medium.com%2Fenforcing-terraform-policies-and-standards-29c1d60d6891&docid=n47svLSMYSunlM&w=712&h=712&q=raw%20png%20of%20terraform&ved=2ahUKEwig3_fO16ODAxWeR2wGHbN1B7QQMygBegQIARA0"></code>
 
 
 <!--<img width="90%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gangadhar-7&show_icons=true&theme=radical"
