@@ -53,7 +53,7 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gaditek.mustafa%2Fbeginners-guide-to-hashicorp-packer-1c4e8e7212ee&psig=AOvVaw36I7OXF-1XQ_fS34fPSR1k&ust=1703356910972000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCSiZDZo4MDFQAAAAAdAAAAABAD"></code>
+<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.packer.io%2F&psig=AOvVaw36I7OXF-1XQ_fS34fPSR1k&ust=1703356910972000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCSiZDZo4MDFQAAAAAdAAAAABAJ"></code>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
