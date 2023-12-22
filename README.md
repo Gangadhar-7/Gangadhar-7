@@ -53,6 +53,7 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gaditek.mustafa%2Fbeginners-guide-to-hashicorp-packer-1c4e8e7212ee&psig=AOvVaw36I7OXF-1XQ_fS34fPSR1k&ust=1703356910972000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCSiZDZo4MDFQAAAAAdAAAAABAD"></code>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
@@ -60,7 +61,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qUEsY6Jz7sirKECXRX_Lu_EoxhappfBSSWhPdsZ61_i5LkMfLJhuwVX0F2SN_NtEf_M&usqp=CAU"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dredhat.ansible&psig=AOvVaw0yo-6WlBxSLGtNSTXfuGSb&ust=1703356827085000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLis5OfYo4MDFQAAAAAdAAAAABAD"></code>
 
 
 
