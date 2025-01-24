@@ -28,7 +28,7 @@
 🌱 I’m currently learning DSA along with AWS_DevOps <br>
 👯 I like Leading,i love Team Worker.<br>
 💬 Trying to get the best version of Myself.<br>
-⚡ I love Web Development<br>
+⚡ I love doing crazy stuff.!!<br>
 <!-- - 😄 Pronouns: -->
 <br>
 
